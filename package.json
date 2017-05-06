@@ -1,0 +1,17 @@
+{
+  "name": "twitter-bots",
+  "version": "1.0.0",
+  "description": "learning about bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^1.2.0",
+    "rita": "1.1.60",
+    "twit": "^2.2.5"
+  }
+}
